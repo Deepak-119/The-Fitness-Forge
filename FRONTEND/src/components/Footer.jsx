@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        Designed And Developed By Deepak Kumar
+        © {new Date().getFullYear()} Designed And Developed By Deepak Kumar
     </footer>
   )
 }
